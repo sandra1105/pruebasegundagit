@@ -1,5 +1,2 @@
 Esto es una prueba inicial
-ya quitamos el error
-hacemos el primer commit
-hacemos el segundo commit
-hacemos el ultimo
+hacemos cambios en master
